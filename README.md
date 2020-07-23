@@ -19,7 +19,7 @@
 
   ## Installation
 
-  No installation is necessary, as the application is deployed on Heroku at:
+  No installation is necessary, as the application is deployed on Heroku at: https://radiant-coast-15901.herokuapp.com/
 
   ## Usage
 
